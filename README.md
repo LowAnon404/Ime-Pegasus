@@ -1,6 +1,7 @@
 <div align="center">
   <!-- ========== HERO SECTION ========== -->
-  <img src="assets/logo/pegasus-logo.png" alt="IME Pegasus Logo" width="140" />
+  <img src="https://github.com/user-attachments/assets/4c80ba96-101c-49eb-aef8-bd600da25c31" alt="IME Pegasus Logo" width="140" />1)
+
   
   <h1>
     <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=40&duration=3000&pause=500&color=00D9FF&center=true&vCenter=true&random=false&width=550&height=80&lines=IME+PEGASUS;THE+ULTIMATE+IME;FLY+WITH+SPEED;NEXT-GEN+TYPING" alt="Typing SVG" />
