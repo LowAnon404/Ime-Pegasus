@@ -9,7 +9,6 @@
   <p>
     <img src="https://img.shields.io/badge/Version-3.0.0-00D9FF?style=for-the-badge&logo=github&logoColor=white" />
     <img src="https://img.shields.io/badge/Release-Stable-00FF9D?style=for-the-badge&logo=statuspage&logoColor=white" />
-
     <img src="https://img.shields.io/badge/License-MIT-FFB800?style=for-the-badge&logo=opensourceinitiative&logoColor=white" />
     <img src="https://img.shields.io/badge/PRs-Welcome-FF6B6B?style=for-the-badge&logo=github&logoColor=white" />
   </p>
