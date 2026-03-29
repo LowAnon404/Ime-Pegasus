@@ -9,6 +9,7 @@
   <p>
     <img src="https://img.shields.io/badge/Version-3.0.0-00D9FF?style=for-the-badge&logo=github&logoColor=white" />
     <img src="https://img.shields.io/badge/Release-Stable-00FF9D?style=for-the-badge&logo=statuspage&logoColor=white" />
+
     <img src="https://img.shields.io/badge/License-MIT-FFB800?style=for-the-badge&logo=opensourceinitiative&logoColor=white" />
     <img src="https://img.shields.io/badge/PRs-Welcome-FF6B6B?style=for-the-badge&logo=github&logoColor=white" />
   </p>
@@ -28,7 +29,7 @@
 ## 🌟 **HERO PREVIEW**
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/c9146ca9-6c49-4ba2-a7bb-bcec08142afe" alt="IME Pegasus Hero Banner" width="100%" />
+  <img src="https://github.com/user-attachments/assets/22d28f33-34b1-4ccf-9a33-dbccc1042c8f" alt="IME Pegasus Hero Banner" width="100%" />
   <br />
   <em>🎯 Next Generation Input Method Editor - Redefining Typing Experience 🎯</em>
 </div>
