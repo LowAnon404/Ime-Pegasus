@@ -76,7 +76,7 @@
 | 🔧 **Developer** | API dan kustomisasi lengkap |
 
 <div align="center">
-  <img src="assets/images/pegasus-concept.png" alt="Pegasus Concept" width="70%" />
+  <img src="" alt="Pegasus Concept" width="70%" />
   <br />
   <sub>⚡ Terinspirasi dari kecepatan mitologi Pegasus ⚡</sub>
 </div>
