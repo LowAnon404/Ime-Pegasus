@@ -6,7 +6,11 @@
   <h1>
     <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=40&duration=3000&pause=500&color=00D9FF&center=true&vCenter=true&random=false&width=550&height=80&lines=IME+PEGASUS;THE+ULTIMATE+IME;FLY+WITH+SPEED;NEXT-GEN+TYPING" alt="Typing SVG" />
   </h1>
-  
+
+  <div align="center">
+<a href="https://trendshift.io/repositories/14638" target="_blank"><img src="https://trendshift.io/api/badge/repositories/14638" alt="HKUDS%2FAI-Researcher | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
+</div>
+
   <p>
     <img src="https://img.shields.io/badge/Version-3.0.0-00D9FF?style=for-the-badge&logo=github&logoColor=white" />
     <img src="https://img.shields.io/badge/Release-Stable-00FF9D?style=for-the-badge&logo=statuspage&logoColor=white" />
